@@ -1,0 +1,15 @@
+{
+  "name": "conkomerco",
+  "description": "Plugins de farmacovigilancia de ConkoSafe IA (Conkomerco S.A.C.)",
+  "owner": {
+    "name": "Conkomerco S.A.C.",
+    "url": "https://conkomerco.com"
+  },
+  "plugins": [
+    {
+      "name": "conkosafe",
+      "source": "./",
+      "description": "Farmacovigilancia en español: causalidad, señales, plazos DIGEMID, ICSR y laboratorio de RAM simuladas."
+    }
+  ]
+}
