@@ -1,7 +1,7 @@
 {
   "name": "conkosafe",
   "displayName": "ConkoSafe Farmacovigilancia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Farmacovigilancia en español: causalidad Naranjo, señales por desproporcionalidad (PRR, ROR, IC), plazos de notificación DIGEMID, estructura de ICSR y un laboratorio de RAM con datos simulados y verdad conocida. Todo corre localmente, sin servicios externos.",
   "author": {
     "name": "Conkomerco S.A.C.",
@@ -9,14 +9,5 @@
   },
   "homepage": "https://github.com/Russali-ux/conkosafe-plugin",
   "repository": "https://github.com/Russali-ux/conkosafe-plugin",
-  "license": "MIT",
-  "keywords": [
-    "farmacovigilancia",
-    "pharmacovigilance",
-    "digemid",
-    "naranjo",
-    "señales",
-    "icsr",
-    "ram"
-  ]
+  "license": "MIT"
 }
