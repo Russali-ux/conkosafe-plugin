@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+__pycache__/
+*.pyc
+salidas/
+datos_reales/
